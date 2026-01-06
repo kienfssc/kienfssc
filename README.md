@@ -59,11 +59,9 @@ I build reliable, maintainable web applications with a focus on clean architectu
 - Continuous learning and improvement  
 
 ---
-
----------------------------------------
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtodTg5ZDdzbTg1YmEwcjhwdzZ6OXU2cmdqcXdvcWRwNDQwYzg0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iq9hGBYQeyjViuvCJf/giphy.gif" width="100%" />
 
----------------------------------------
+---
 
 ⭐️ From [Kien Nguyen](https://github.com/kienfssc)
 
