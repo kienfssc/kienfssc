@@ -40,21 +40,16 @@ I build reliable, maintainable web applications with a focus on clean architectu
 
 ## 🖥️ Workstation Specs
 
-![OS](https://img.shields.io/badge/OS-<your-value-here>-blue?style=for-the-badge)
-![CPU](https://img.shields.io/badge/CPU-<your-value-here>-orange?style=for-the-badge)
-![GPU](https://img.shields.io/badge/GPU-<your-value-here>-green?style=for-the-badge)
-![RAM](https://img.shields.io/badge/RAM-<your-value-here>-yellow?style=for-the-badge)
-![Storage](https://img.shields.io/badge/Storage-<your-value-here>-purple?style=for-the-badge)
-![Monitor](https://img.shields.io/badge/Monitor-<your-value-here>-cyan?style=for-the-badge)
-![Peripherals](https://img.shields.io/badge/Peripherals-<your-value-here>-lightgrey?style=for-the-badge)
-![Dev%20Env](https://img.shields.io/badge/Dev%20Env-<your-value-here>-ff69b4?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-orange?style=for-the-badge)
+![CPU](https://img.shields.io/badge/CPU-Xeon%20E%202276M-blue?style=for-the-badge)
+![GPU](https://img.shields.io/badge/GPU-Quadro%20T2000-green?style=for-the-badge)
+![RAM](https://img.shields.io/badge/RAM-32GB%20DDR4L-yellow?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Storage-1TB%20SSD%20+%201TB%20HDD-purple?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
-- 🔗 **[Project Name](link)** – Full-stack application  
-- 🔗 **[Project Name](link)** – Frontend project  
-- 🔗 **[Project Name](link)** – Backend project  
+## 📌 Current Projects
+- 🔗 **[[TFVN Bot](link)](https://github.com/quynhcolleen/tfvn_bot)** – Full-stack application 
 
 ---
 
@@ -65,5 +60,5 @@ I build reliable, maintainable web applications with a focus on clean architectu
 
 ---
 
-⭐️ From [Kien Nguyen[(https://github.com/kienfssch
+⭐️ From [Kien Nguyen[(https://github.com/kienfssc)
 
