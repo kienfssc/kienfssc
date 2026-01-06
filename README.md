@@ -49,7 +49,7 @@ I build reliable, maintainable web applications with a focus on clean architectu
 ---
 
 ## 📌 Current Projects
-- 🔗 **[[TFVN Bot](link)](https://github.com/quynhcolleen/tfvn_bot)** – Full-stack application 
+- 🔗 **[TFVN Bot](https://github.com/quynhcolleen/tfvn_bot)** – Full-stack application 
 
 ---
 
@@ -60,5 +60,5 @@ I build reliable, maintainable web applications with a focus on clean architectu
 
 ---
 
-⭐️ From [Kien Nguyen[(https://github.com/kienfssc)
+⭐️ From [Kien Nguyen](https://github.com/kienfssc)
 
