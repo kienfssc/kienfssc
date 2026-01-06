@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Kien Nguyen
 ---------------------------------------
-<iframe src="https://giphy.com/embed/iq9hGBYQeyjViuvCJf" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/party-celebration-drinking-iq9hGBYQeyjViuvCJf">via GIPHY</a></p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtodTg5ZDdzbTg1YmEwcjhwdzZ6OXU2cmdqcXdvcWRwNDQwYzg0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iq9hGBYQeyjViuvCJf/giphy.gif" width="100%" />
+
 ---------------------------------------
 💻 **Full-stack developer**  
 ✈️ PPL student · 1-Stripe Silver Cadet  
